@@ -26,4 +26,6 @@ Hiring Trends
 13. What has the firing trend been during the 5 year period from 2015-2020 in terms of gender and race?
 
 ### Dashboard
-![image](https://github.com/user-attachments/assets/109bc39d-54e7-4e0a-b9ec-2bfcd1625ed2)
+![image](https://github.com/user-attachments/assets/38398d83-f4a5-4dc1-9127-70bc0e90fd18)
+
+
